@@ -93,7 +93,7 @@ React Native app for GPA/CGPA calculation and academic tracking.
 
 # 🌐 Connect With Me
 
-<a href="[https://facebook.com/](https://www.facebook.com/share/1V96zuf1KB/)">
+<a href="https://www.facebook.com/share/1V96zuf1KB/">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 
