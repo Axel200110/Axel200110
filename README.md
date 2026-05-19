@@ -27,7 +27,7 @@
 
 ---
 
-# 🔥 GitHub Profile Details
+# 🔥 GitHub Streak
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Axel200110&theme=github_dark" />
 
