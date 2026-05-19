@@ -1,95 +1,115 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Go+%7C+Python+%7C+Java+%7C+PHP;Building+Web+%26+Mobile+Apps" />
-</p>
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Go+%7C+Python+%7C+Java+%7C+PHP;Building+Modern+Web+%26+Mobile+Apps" />
 
 # Hi, I'm Thuwan 👋
 
 💻 Full Stack Developer  
-🚀 Building web & mobile applications  
-⚛️ React | Next.js | Node.js  
-🐹 Go | 🐍 Python | ☕ Java | PHP  
-🗄️ MongoDB & Backend Systems  
-🌱 Exploring scalable systems and cloud technologies  
+🚀 Building Modern Web & Mobile Applications  
+⚛️ React • Next.js • Node.js  
+🐹 Go • 🐍 Python • ☕ Java • PHP  
+🗄️ MongoDB • Firebase • Supabase  
+🌱 Exploring Scalable Systems & Cloud Technologies
 
 ---
 
-## 🚀 Tech Stack
+# 🚀 Tech Stack
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Axel200110&theme=github_dark" />
-</p>
-
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,go,python,java,php,mongodb,firebase,supabase,git,github,vscode" />
 
 ---
 
-## 🔥 GitHub Streak
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Axel200110&theme=github_dark" />
-</p>
+# 📊 GitHub Stats
+
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Axel200110&theme=github_dark" />
+
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Axel200110&theme=github_dark" />
 
 ---
 
-## 💻 Most Used Languages
+# 🔥 GitHub Profile Details
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Axel200110&theme=github_dark" />
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Axel200110&theme=github_dark" />
 
 ---
 
-## 📂 Featured Projects
+# 📂 Featured Projects
+
+<table>
+<tr>
+<td align="center" width="300">
 
 ### 🎬 CineVault Web
 Movie streaming and management platform built for web users.
 
+</td>
+
+<td align="center" width="300">
+
 ### 📱 CineVault Mobile App
 Mobile application for browsing and watching movies.
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="300">
 
 ### 🎥 CinneSuggest
 Movie recommendation website with personalized suggestions.
 
+</td>
+
+<td align="center" width="300">
+
 ### 🎓 Student Management System
 System for managing students, courses, and grades.
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="300">
 
 ### 📚 eLearning Platform
 PHP-based online learning platform with quizzes and video lessons.
 
+</td>
+
+<td align="center" width="300">
+
 ### 📱 GPA Calculator App
 React Native app for GPA/CGPA calculation and academic tracking.
 
-### 🛍️ Clothes Shopping Website
-Modern eCommerce clothing platform.
+</td>
+</tr>
+
+</table>
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/)
+<a href="https://facebook.com/">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
+<a href="https://linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
+<a href="https://instagram.com/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 
 ---
 
-## 👀 Visitor Count
+# 👀 Visitor Count
 
-![](https://komarev.com/ghpvc/?username=Axel200110&color=blue)
+<img src="https://komarev.com/ghpvc/?username=Axel200110&style=for-the-badge&color=blue" />
 
 ---
 
-⭐ From [Axel200110](https://github.com/Axel200110)
+### ⭐ From [Axel200110](https://github.com/Axel200110)
+
+</div>
