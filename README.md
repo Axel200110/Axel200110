@@ -29,7 +29,7 @@
 
 ## 📊 GitHub Stats
 
-![Thuwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Axel200110&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Axel200110&show_icons=true&theme=github_dark)
 
 ---
 
@@ -41,7 +41,7 @@
 
 ## 💻 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Axel200110&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Axel200110&layout=compact&theme=github_dark)
 
 ---
 
