@@ -38,7 +38,7 @@
 
 ## 🔥 GitHub Streak
 <p align="center">
-![GitHub Streak](https://streak-stats.demolab.com?user=Axel200110&theme=tokyonight)
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Axel200110&theme=github_dark" />
 </p>
 
 ---
