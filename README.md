@@ -93,7 +93,7 @@ React Native app for GPA/CGPA calculation and academic tracking.
 
 # 🌐 Connect With Me
 
-<a href="https://facebook.com/">
+<a href="[https://facebook.com/](https://www.facebook.com/share/1V96zuf1KB/)">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 
@@ -101,8 +101,11 @@ React Native app for GPA/CGPA calculation and academic tracking.
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://instagram.com/">
+<a href="[https://instagram.com/](https://www.instagram.com/thuwan_sajin?igsh=bWJwemN3NjNkMG1o)">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="mailto:thuwanrajap076@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 ---
