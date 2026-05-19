@@ -22,7 +22,9 @@
 # 📊 GitHub Stats
 
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Axel200110&theme=github_dark" />
+---
 
+## 💻 Most Used Languages
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Axel200110&theme=github_dark" />
 
 ---
